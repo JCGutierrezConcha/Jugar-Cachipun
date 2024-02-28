@@ -1,0 +1,12 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.separador {
+    height: 5px;
+    background-color: #0a7224;
+}
